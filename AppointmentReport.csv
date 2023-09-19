@@ -1,0 +1,5 @@
+Date,Time,Stylist,Booked Services,Customer Name,Contact Info,Status,Priority,Reminder At,Scheduled Appointments,Completed Appointments,Rejected Appointments,Referrals,Rescheduled Bookings
+2023-09-01,10:00 AM,Sarah,"Haircut & Styling, Manicure",Jane Smith,jane@example.com,Scheduled,High,2023-09-01 9:00 AM,$3,12,2,1,2
+2023-09-02,3:30 PM,Emily,Coloring Services,Mike Johnson,mike@example.com,In Progress,Medium,2023-09-02 2:00 PM,$5,8,0,0,1
+2023-09-03,11:15 AM,Olivia,Spa Treatments,Lisa Davis,lisa@example.com,Completed,Low,2023-09-03 3:00 PM,$1,15,0,0,0
+2023-09-04,2:00 PM,Michael,Bridal Styling,Emily Williams,emily@example.com,Scheduled,High,2023-09-04 1:00 PM,$4,16,1,1,0
